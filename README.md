@@ -6,13 +6,5 @@ Discord bot draft that does not contain ready-made commands, compatible with dis
 Discord.js v14 latest version compatible discord ready empty commandless bot infrastructure where you can run both slash commands and prefix discord bot commands for your discord bot at the same time. Create your own bots with your own commands.
 
 <hr>
-Follow Me Social Media<br>
-Discord: https://discord.gg/codes<br>
-Twitch: https://twitch.com/umutxyp<br>
-Github: https://github.com/umutxyp<br>
-Instagram: https://instagram.com/umutxyp<br>
-Twitter: https://twitter.com/devbayraktar<br>
-Facebook: https://facebook.com/umutxyp<br>
-Pinterest: https://pinterest.com/umutxyp<br>
-TikTok: https://www.tiktok.com/@umutxyp
+<h1>Support: https://discord.gg/codes</h1><br>
 
