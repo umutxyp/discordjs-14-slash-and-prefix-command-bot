@@ -1,10 +1,28 @@
-# discordjs-14-slash-and-prefix-command-bot
-Discord bot draft that does not contain ready-made commands, compatible with discord.js v14. Create your own discord bot with this command handler.
+# 🛠️ Hybrid Discord Bot Template (Prefix + Slash)
 
-<h3>Code Share Original Repo: https://codeshare.me/c/p5hx16iarp5us22g</h3>
+The ultimate starter kit for Discord bots that need the best of both worlds: traditional **Prefix-based** commands and modern **Slash Commands**.
 
-Discord.js v14 latest version compatible discord ready empty commandless bot infrastructure where you can run both slash commands and prefix discord bot commands for your discord bot at the same time. Create your own bots with your own commands.
+## 🌟 Key Features
 
-<hr>
-<h1>Support: https://discord.gg/codes</h1><br>
+- **Dual Command System:** Separate handlers for prefix/message commands and slash commands.
+- **Rich Intents:** Pre-configured with total `GatewayIntentBits` for advanced features.
+- **Developer Friendly:** Includes a `run.bat` for easy local Windows execution.
+- **Modular Events:** Clean event management system.
 
+## 🏗️ Structure
+
+- `/prefix`: Home for commands like `!help`.
+- `/slash`: Home for commands like `/help`.
+- `/events`: Centralized event management.
+
+## 🔧 Configuration
+
+Update `config.js`:
+
+```javascript
+module.exports = {
+    token: "YOUR_BOT_TOKEN",
+    prefix: "!",
+    ownerID: "YOUR_ID"
+}
+```
